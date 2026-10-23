@@ -50,3 +50,5 @@ evidence/
 tools/
 docx_render/
 *.docx
+.chrome-headless/
+.edge-headless/
