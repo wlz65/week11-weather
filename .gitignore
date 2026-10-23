@@ -44,3 +44,9 @@ __screenshots__/
 !.dev.vars.example
 .env*
 !.env.example
+
+# Local eFolio evidence artifacts
+evidence/
+tools/
+docx_render/
+*.docx
